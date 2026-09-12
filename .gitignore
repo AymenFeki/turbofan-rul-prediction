@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+.idea/
+.ipynb_checkpoints/
+
+# Raw data is downloaded, not committed
+CMAPSSData/
+
+# Generated: keep only figures, small result files and tuned params
+outputs/**
+!outputs/**/
+!outputs/*/figures/*.png
+!outputs/*/results/*.json
+!outputs/*/results/*.csv
+!outputs/*/results/*.md
+!outputs/*/params/*.json
