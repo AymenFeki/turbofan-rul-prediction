@@ -1,0 +1,16 @@
+{
+  "params": {
+    "seq_len": 80,
+    "lr": 0.0009547820117996543,
+    "batch_size": 128,
+    "weight_decay": 1.0590611199923961e-06,
+    "dropout": 0.08291971567666073,
+    "d_model": 64,
+    "heads": 2,
+    "layers": 3,
+    "ff_mult": 4
+  },
+  "val_rmse": 9.537275100790705,
+  "n_trials": 30,
+  "trial": 28
+}

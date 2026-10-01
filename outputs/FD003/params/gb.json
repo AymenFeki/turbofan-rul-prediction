@@ -1,0 +1,13 @@
+{
+  "params": {
+    "window": 30,
+    "max_iter": 250,
+    "learning_rate": 0.04924586617463423,
+    "max_leaf_nodes": 14,
+    "min_samples_leaf": 8,
+    "l2_regularization": 0.12867970678570012
+  },
+  "val_rmse": 13.879120968382457,
+  "n_trials": 30,
+  "trial": 29
+}

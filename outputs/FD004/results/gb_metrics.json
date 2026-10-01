@@ -1,0 +1,16 @@
+{
+  "model": "gb",
+  "val_rmse": 18.25426288040798,
+  "rmse": 17.96460111001125,
+  "mae": 12.874797523739906,
+  "phm08": 2085.305247935071,
+  "params": {
+    "window": 30,
+    "max_iter": 300,
+    "learning_rate": 0.024092805248894678,
+    "max_leaf_nodes": 25,
+    "min_samples_leaf": 17,
+    "l2_regularization": 0.44797069395442907
+  },
+  "history": null
+}

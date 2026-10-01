@@ -1,0 +1,15 @@
+{
+  "params": {
+    "seq_len": 40,
+    "lr": 0.002176095591914736,
+    "batch_size": 32,
+    "weight_decay": 0.006025946532982811,
+    "dropout": 0.060074578024963354,
+    "channels": 128,
+    "layers": 4,
+    "kernel": 7
+  },
+  "val_rmse": 16.054631627152094,
+  "n_trials": 30,
+  "trial": 29
+}
