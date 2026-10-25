@@ -114,7 +114,7 @@ each test engine's last cycle.
 ### What the numbers say
 
 **Sequence models vs gradient boosting.** The gap is 1.7 cycles on FD001,
-3.6 on FD003, 4.4 on FD002 and 4.6 on FD004 (best network's seed mean vs
+3.6 on FD003, 4.3 on FD002 and 4.6 on FD004 (best network's seed mean vs
 gradient boosting). It is far larger than the seed-to-seed spread, so it is
 not noise. It is smallest on the simplest sub-dataset and larger on the two
 with six operating conditions.
